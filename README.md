@@ -54,7 +54,8 @@ Below are widgets that switch according to the user's system theme (dark / light
 
 ---
 
-## 👨‍💻 `class Aman(Engineer, Founder):`
+
+### 👨‍💻 `class Aman(Engineer, Founder):`
 
 ```python
 class Aman:
@@ -70,6 +71,30 @@ class Aman:
             "Working_On": ["YVOO (Fintech)", "OceanBot (Marine AI)"],
             "Goal": "Software Engineering Intern (AI/ML) @ Google"
         }
+
+class ML_Engineer:
+    def __init__(self):
+        # Education & Core Identity
+        self.name = "Aman Anubhav"
+        self.domain = "Machine Learning & Deep Learning"
+        self.affiliation = "KIIT Deemed to be University, CSE (CPI 7.6)"
+        
+        # Professional & Leadership Roles
+        self.roles = {
+            "Founder": "DeuxStem Organization (Scaled to 2M+ global audience, NASA recognized)",
+            "Growth": "Google Developers Group (Top 8% Specialist, Drove 23% engagement growth)",
+            "Ambassador": "Microsoft Learn Student Ambassador (Project Wing Contributor)",
+        }
+
+    def featured_achievements(self):
+        return [
+            "NYAS 2023 Winner",
+            "MIT LaunchX Entrepreneur",
+            "Discovered 2 Asteroids (Commended by NASA & Pan-STARRS)",
+            "Qualified SIH 2025"
+        ]
+
+```
 ```
 
 <div align="center">
@@ -116,21 +141,6 @@ FastAPI • Power BI • Docker • Git • Linux • NumPy • Pandas
 ### 🔹 **KANAD — Agriculture Intelligence (NYAS Winner)**
 - Hybrid ML pipeline (LR + RF + LSTM + CNN)  
 - Real-world deployment impact with irrigation optimization  
-
----
-
-# 📈 **GitHub Metrics**
-
-<div align="center">
-
-<!-- Widgets kept external because they are dynamic; consider self-hosting as below -->
-<img src="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F" height="160"/>
-
-</div>
 
 ---
 
