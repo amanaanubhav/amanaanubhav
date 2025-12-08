@@ -5,19 +5,3 @@ summit.jpg: https://raw.githubusercontent.com/half-s/half-s/main/assets/summit.j
 typing.svg: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+AI+Agents+with+Gemini+3;Solving+DSA+in+C%2FC%2B%2B;Predicting+FinTech+Trends;Scaling+Communities+Globally
 
 Run ./fetch_assets.sh to download them into ./assets/
-
-Remote assets referenced in README.md:
-
-HEADER WAVING BANNER:
-https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Aman%20Anubhav&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Machine%20Learning%20Engineer%20%7C%20Researcher%20%7C%20Founder&descAlignY=55&descSize=20
-
-TYPING ANIMATIONS:
-https://readme-typing-svg.herokuapp.com
-
-SUMMIT IMAGE:
-https://raw.githubusercontent.com/half-s/half-s/main/assets/summit.jpg
-
-GITHUB STATS WIDGETS:
-https://github-readme-stats.vercel.app
-https://github-readme-streak-stats.herokuapp.com
-https://github-readme-stats.vercel.app/api/top-langs/
