@@ -1,0 +1,25 @@
+
+name: Deploy Readme Widgets to Vercel
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install Vercel CLI
+        run: npm install -g vercel
+      - name: Deploy to Vercel (github-readme-stats fork)
+        env:
+          VERCEL_TOKEN: ${{{{ secrets.VERCEL_TOKEN }}}}
+        run: |
+          # Assumes you have a local fork checked into /widgets (add as git submodule or folder)
+          # This script will deploy the 'github-readme-stats' instance to Vercel
+          cd widgets || (echo "Place your widget code inside ./widgets" && exit 1)
+          vercel --token $VERCEL_TOKEN --prod --confirm
