@@ -1,35 +1,53 @@
-
+<!-- ========================= Header & Typing (local assets) ========================= -->
 <div align="center">
-  <!-- Theme-aware header banner using local assets -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_light.png">
-    <img alt="Aman Anubhav Header" src="assets/header_dark.png" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Aman%20Anubhav&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=00FF7F&desc=Machine%20Learning%20Engineer%20%7C%20Researcher%20%7C%20Founder&descAlignY=55&descSize=20&descColor=ffffff" alt="Aman Anubhav Header" width="100%"/>
 </div>
 
-<div align="center">
-
-[![Typing SVG](assets/typing.svg)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/amananubhav">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amannbhv.cswork@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://kaggle.com">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-</a>
-
+<div align="center" style="margin-top:12px;">
+  <img src="assets/typing.svg" alt="typing" style="width:80%; max-width:820px; display:block; margin:0 auto;" />
 </div>
+
+<hr/>
+
+<!-- ========================= Stable Theme-aware Widgets (fallback-ready) ========================= -->
+<table width="100%" style="margin-top:18px;">
+  <tr>
+    <!-- Left: contribution graph (uses ghchart fallback) -->
+    <td align="center" width="33%" style="vertical-align: top; padding: 12px;">
+      <strong style="font-size:18px;">Contributions</strong>
+      <p style="margin:6px 0 12px 0; color:#9aa3ac;">Recent activity & commits</p>
+      <!-- ghchart is a simple, reliable contribution heatmap service -->
+      <img src="https://ghchart.rshah.org/amanaanubhav" alt="Contribution Graph" style="max-width:100%; height:auto; border-radius:6px;" />
+      <div style="font-size:12px; color:#8b949e; margin-top:8px;">If this graph is blank, open <code>https://ghchart.rshah.org/amanaanubhav</code> in your browser to test.</div>
+    </td>
+    <!-- Center: GitHub stats (primary) with text fallback -->
+    <td align="center" width="34%" style="vertical-align: top; padding: 12px;">
+      <strong style="font-size:18px;">GitHub Stats</strong>
+      <p style="margin:6px 0 12px 0; color:#9aa3ac;">Key metrics & streaks</p>
+      <!-- Primary: hosted stats (replace with your Vercel URL once self-hosted) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true" alt="Aman's GitHub stats" style="width:100%; max-width:420px; border-radius:6px;" onerror="this.style.display='none'"/>
+      <!-- Fallback badges (always reliable) -->
+      <p style="margin-top:8px;">
+        <img alt="repos" src="https://img.shields.io/badge/Repos-yellow?style=flat&logo=github" />
+        <img alt="stars" src="https://img.shields.io/badge/Stars-lightgrey?style=flat&logo=github" />
+      </p>
+      <div style="font-size:12px; color:#8b949e; margin-top:8px;">If the stats are blank, consider self-hosting the widget (Vercel) — I can provide an Action for this.</div>
+    </td>
+    <!-- Right: Top languages -->
+    <td align="center" width="33%" style="vertical-align: top; padding: 12px;">
+      <strong style="font-size:18px;">Top Languages</strong>
+      <p style="margin:6px 0 12px 0; color:#9aa3ac;">Primary languages by contribution</p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width:100%; max-width:320px; border-radius:6px;" onerror="this.style.display='none'"/>
+      <div style="font-size:12px; color:#8b949e; margin-top:8px;">If this is blank, either the service is rate-limited or use the self-host flow below.</div>
+    </td>
+
+  </tr>
+</table>
+
+<hr/>
+
 
 ---
-
-## Theme-aware Widgets
-Below are widgets that switch according to the user's system theme (dark / light). This uses `<picture>` + `source media="(prefers-color-scheme: dark)"` which is supported in modern browsers and GitHub profile READMEs.
-
-<div align="center">
 
 <!-- GitHub stats: dark / light variants -->
 <picture>
@@ -94,7 +112,6 @@ class ML_Engineer:
             "Qualified SIH 2025"
         ]
 
-```
 ```
 
 <div align="center">
@@ -165,10 +182,3 @@ FastAPI • Power BI • Docker • Git • Linux • NumPy • Pandas
 
 # 🏔️ **Mission**
 To engineer **intelligent systems** that solve real-world problems at scale — and contribute to a future where AI is **human-centered, safe, and accessible**.
-
----
-
-# Instructions for fetching assets and deploying widgets
-1. Run `./fetch_assets.sh` locally. This will download and save images into `assets/` so the README uses local files.
-2. Commit the `assets/` directory to your profile repo (recommended to keep small files only).
-3. To self-host the GitHub-readme widgets, follow the GitHub Action below which deploys a fork of `anuraghazra/github-readme-stats` to Vercel. Configure secrets: `VERCEL_TOKEN`, `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID` in your repo settings.
