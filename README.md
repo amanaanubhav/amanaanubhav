@@ -18,7 +18,7 @@
       <p style="margin:6px 0 12px 0; color:#9aa3ac;">Recent activity & commits</p>
       <!-- ghchart is a simple, reliable contribution heatmap service -->
       <img src="https://ghchart.rshah.org/amanaanubhav" alt="Contribution Graph" style="max-width:100%; height:auto; border-radius:6px;" />
-      <div style="font-size:12px; color:#8b949e; margin-top:8px;">If this graph is blank, open <code>https://ghchart.rshah.org/amanaanubhav</code> in your browser to test.</div>
+      <div style="font-size:12px; color:#8b949e; margin-top:8px;"></div>
     </td>
     <!-- Center: GitHub stats (primary) with text fallback -->
     <td align="center" width="34%" style="vertical-align: top; padding: 12px;">
@@ -31,14 +31,14 @@
         <img alt="repos" src="https://img.shields.io/badge/Repos-yellow?style=flat&logo=github" />
         <img alt="stars" src="https://img.shields.io/badge/Stars-lightgrey?style=flat&logo=github" />
       </p>
-      <div style="font-size:12px; color:#8b949e; margin-top:8px;">If the stats are blank, consider self-hosting the widget (Vercel) — I can provide an Action for this.</div>
+      <div style="font-size:12px; color:#8b949e; margin-top:8px;"></div>
     </td>
     <!-- Right: Top languages -->
     <td align="center" width="33%" style="vertical-align: top; padding: 12px;">
       <strong style="font-size:18px;">Top Languages</strong>
       <p style="margin:6px 0 12px 0; color:#9aa3ac;">Primary languages by contribution</p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width:100%; max-width:320px; border-radius:6px;" onerror="this.style.display='none'"/>
-      <div style="font-size:12px; color:#8b949e; margin-top:8px;">If this is blank, either the service is rate-limited or use the self-host flow below.</div>
+      <div style="font-size:12px; color:#8b949e; margin-top:8px;"></div>
     </td>
 
   </tr>
