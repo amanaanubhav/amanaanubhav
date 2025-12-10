@@ -47,31 +47,6 @@
 <hr/>
 
 
----
-
-<!-- GitHub stats: dark / light variants -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=gruvbox&hide_border=true">
-  <img alt="Aman's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F" height="160"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=basic&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" height="160"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=gruvbox-light&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F" height="160"/>
-</picture>
-
-</div>
-
----
-
 
 ### 👨‍💻 `class Aman(Engineer, Founder):`
 
