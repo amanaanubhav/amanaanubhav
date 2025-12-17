@@ -98,10 +98,11 @@ class Aman(Engineer, Founder):
 ---
 
 # 🧠 **About Me**
-I am a Machine Learning Engineer and Researcher specializing in **Deep Learning, Computer Vision, Reinforcement Learning, and Large-Scale AI Systems**.  
-As the **Founder of DeuxStem**, I have scaled educational impact to **2M+ learners globally**.  
+<div align="justify">
+  <p>I'm Aman Anubhav, a genetically engineered learner pursuing B.Tech in AI/ML at KIIT University. I grew up in Sikahar, rural Bihar, where stargazing in minimal light pollution sparked my curiosity about how things work. That journey took me from village nights to partnering with NASA-IASC for asteroid discovery (two under deep review), founding Deuxstem to teach STEM globally, and building AI systems that solve real problems. My technical path evolved from systems programming (C/C++) through full-stack development (React, Next.js, Flask, PostgreSQL) into AI/ML specialization—working with TensorFlow, PyTorch, XGBoost, reinforcement learning, and exploring Liquid Neural Networks. I've built YVOO (fintech credit scoring platform that qualified for Smart India Hackathon), PAVANA (solar-powered carbon capture system), and RAKSHAK (marine-safe energy harvester that won 3M-CII Young Innovators Challenge). Currently, I'm Growth Specialist at Google Developers Group and deepening expertise in MLOps and AI agent architectures.</p>
 
-My work blends **research-grade modeling**, **production-ready engineering**, and **high-quality developer advocacy**.
+  <p>I don't code for grades or resume lines—I learn to solve problems that affect lives. Financial exclusion for 190M Indians, atmospheric CO2 levels, education access—these drive me. Recently, I summited Kun Tso Lake at 5,010m in the Khangchengyao mountains, where depleting oxygen and hard steps reminded me: we have maybe 20 adventurous summers where body, mind, and curiosity align. I want mine spent building things that matter. Beyond tech, I'm passionate about astronomy, fitness (daily workouts, basketball), and mentorship—teaching sharpens understanding. I'm looking for teams where learning compounds into measurable impact, especially in AI/ML engineering and MLOps roles. Currently pursuing opportunities with Google (referral secured) and collaborations where technology creates real change, not just impressive demos.</p>
+</div>
 
 ---
 
