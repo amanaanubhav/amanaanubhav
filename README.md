@@ -27,6 +27,15 @@
 <!-- ## Theme-aware Widgets
 Below are widgets that switch according to the user's system theme (dark / light). This uses `<picture>` + `source media="(prefers-color-scheme: dark)"` which is supported in modern browsers and GitHub profile READMEs.  -->
 
+<!-- Contribution Graph Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=light">
+  <img alt="github contribution grid snake animation" src="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22" />
+</picture>
+
+<br/><br/>
+
 <div align="center">
 
 <!-- GitHub stats: dark / light variants -->
