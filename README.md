@@ -1,23 +1,15 @@
 
+<meta name="google-site-verification" content="vd64xyCSiXPcFuoxbupxGUTQ66PCc5-IgL50OcVyH8c" />
+
+<!-- ========================= Header & Typing (local assets) ========================= -->
 <div align="center">
-  <!-- Theme-aware header banner using local assets -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_light.png">
-    <img alt="Aman Anubhav Header" src="assets/header_dark.png" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Aman%20Anubhav&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=00FF7F&desc=Machine%20Learning%20Engineer%20%7C%20Researcher%20%7C%20Founder&descAlignY=55&descSize=20&descColor=ffffff" alt="Aman Anubhav Header" width="100%"/>
 </div>
 
 <div align="center">
 
 [![Typing SVG](assets/typing.svg)](https://git.io/typing-svg)
 
-<a href="https://www.amananubhav.com/">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/amansanubhav">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/amananubhav">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -35,46 +27,33 @@
 ## Theme-aware Widgets
 Below are widgets that switch according to the user's system theme (dark / light). This uses `<picture>` + `source media="(prefers-color-scheme: dark)"` which is supported in modern browsers and GitHub profile READMEs.
 
-<!-- Contribution Graph Snake -->
+<div align="center">
+
+<!-- GitHub stats: dark / light variants -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=light">
-  <img alt="github contribution grid snake animation" src="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=gruvbox&hide_border=true">
+  <img alt="Aman's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F" height="160"/>
 </picture>
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=basic&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" height="160"/>
+</picture>
 
-<!-- GitHub stats: Grid Layout -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=gruvbox&hide_border=true">
-        <img alt="Aman's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amanaanubhav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&icon_color=00FF7F" height="150"/>
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=gruvbox-light&hide_border=true">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F" height="150"/>
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=basic&hide_border=true">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=amanaanubhav&theme=dark&hide_border=true&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" height="150" style="max-width: 100%;"/>
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=gruvbox-light&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F" height="160"/>
+</picture>
+
+</div>
 
 ---
 
+
+### 👨‍💻 `class Aman(Engineer, Founder):`
 
 ```python
 class Aman(Engineer, Founder):
@@ -99,6 +78,7 @@ class Aman(Engineer, Founder):
             "🔭 Discovered 2 Asteroids (NASA recognized)",
             "🥇 Qualified SIH 2025"
         ]
+
 ```
 ```
 
@@ -177,10 +157,3 @@ My work blends **research-grade modeling**, **production-ready engineering**, an
 
 # 🏔️ **Mission**
 To engineer **intelligent systems** that solve real-world problems at scale — and contribute to a future where AI is **human-centered, safe, and accessible**.
-
----
-
-# Instructions for fetching assets and deploying widgets
-1. Run `./fetch_assets.sh` locally. This will download and save images into `assets/` so the README uses local files.
-2. Commit the `assets/` directory to your profile repo (recommended to keep small files only).
-3. To self-host the GitHub-readme widgets, follow the GitHub Action below which deploys a fork of `anuraghazra/github-readme-stats` to Vercel. Configure secrets: `VERCEL_TOKEN`, `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID` in your repo settings.
