@@ -29,9 +29,9 @@ Below are widgets that switch according to the user's system theme (dark / light
 
 <!-- Contribution Graph Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=light">
-  <img alt="github contribution grid snake animation" src="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22" />
+  <div align="center" width="33%" style="vertical-align: top; padding: 12px;">
+    <img src="https://ghchart.rshah.org/amanaanubhav" alt="Contribution Graph" style="max-width:100%; height:auto; border-radius:6px;" />
+  </div>
 </picture>
 
 <br/><br/>
@@ -56,6 +56,12 @@ Below are widgets that switch according to the user's system theme (dark / light
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=gruvbox-light&hide_border=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaanubhav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF7F" height="160"/>
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=light">
+  <img alt="github contribution grid snake animation" src="https://github-readme-snake.vercel.app/api?username=amanaanubhav&theme=dark&bg_color=0d1117&color_snake=00FF7F&color_dots=161b22" />
+</picture>
+
 
 </div>
 
