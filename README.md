@@ -1,3 +1,6 @@
+
+<meta name="google-site-verification" content="vd64xyCSiXPcFuoxbupxGUTQ66PCc5-IgL50OcVyH8c" />
+
 <!-- ========================= Header & Typing (local assets) ========================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Aman%20Anubhav&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=00FF7F&desc=Machine%20Learning%20Engineer%20%7C%20Researcher%20%7C%20Founder&descAlignY=55&descSize=20&descColor=ffffff" alt="Aman Anubhav Header" width="100%"/>
@@ -45,8 +48,6 @@
 </table>
 
 <hr/>
-
-
 
 ### 👨‍💻 `class Aman(Engineer, Founder):`
 
