@@ -24,8 +24,8 @@
 
 ---
 
-## Theme-aware Widgets
-Below are widgets that switch according to the user's system theme (dark / light). This uses `<picture>` + `source media="(prefers-color-scheme: dark)"` which is supported in modern browsers and GitHub profile READMEs.
+<!-- ## Theme-aware Widgets
+Below are widgets that switch according to the user's system theme (dark / light). This uses `<picture>` + `source media="(prefers-color-scheme: dark)"` which is supported in modern browsers and GitHub profile READMEs.  -->
 
 <div align="center">
 
@@ -80,7 +80,7 @@ class Aman(Engineer, Founder):
         ]
 
 ```
-```
+
 
 <div align="center">
   <img src="assets/summit.jpg" width="100%"/>
